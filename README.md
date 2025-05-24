@@ -1,5 +1,7 @@
 # Convenience-store-scheduling-system
 運用 C# 撰寫出簡易的超商排班系統
+* Demo連結: <https://youtu.be/6otN9hixBfs>
+
 ### 需求規劃:
 >#### 24小時營業之超商店員排班系統，假設該商店之店員分三班 
 >*  12:00 a.m. ~8:00 a.m. 1 位店員 
